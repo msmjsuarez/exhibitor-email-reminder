@@ -3,7 +3,7 @@
 /**
  * Fired during plugin deactivation
  *
- * @link       https://exhibitor-portal.uk
+ * @link       #
  * @since      1.0.0
  *
  * @package    Exhibitor_Email_Reminder
