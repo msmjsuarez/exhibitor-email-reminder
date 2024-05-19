@@ -3,7 +3,7 @@
 /**
  * The admin-specific functionality of the plugin.
  *
- * @link       https://exhibitor-portal.uk
+ * @link       #
  * @since      1.0.0
  *
  * @package    Exhibitor_Email_Reminder
