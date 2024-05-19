@@ -14,11 +14,11 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Exhibitor Email Reminder
- * Plugin URI:        https://exhibitor-portal.uk
+ * Plugin URI:        #
  * Description:       This is to send an email reminder to exhibitors to complete forms. Sending is scheduled using WP-Cron.
  * Version:           1.0.0
  * Author:            MJ Layasan
- * Author URI:        https://exhibitor-portal.uk/
+ * Author URI:        https://mjlayasan.com/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       exhibitor-email-reminder
