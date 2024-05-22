@@ -6,7 +6,7 @@
  * Loads and defines the internationalization files for this plugin
  * so that it is ready for translation.
  *
- * @link       #
+ * @link       https://www.exhibitor-portal.uk/
  * @since      1.0.0
  *
  * @package    Exhibitor_Email_Reminder

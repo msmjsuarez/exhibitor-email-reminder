@@ -5,7 +5,7 @@
  *
  * This file is used to markup the public-facing aspects of the plugin.
  *
- * @link       #
+ * @link       https://www.exhibitor-portal.uk/
  * @since      1.0.0
  *
  * @package    Exhibitor_Email_Reminder

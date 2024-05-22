@@ -19,7 +19,7 @@
  * For more information, see the following discussion:
  * https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate/pull/123#issuecomment-28541913
  *
- * @link       #
+ * * @link              https://www.exhibitor-portal.uk/
  * @since      1.0.0
  *
  * @package    Exhibitor_Email_Reminder

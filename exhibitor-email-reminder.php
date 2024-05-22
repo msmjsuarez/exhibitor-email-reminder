@@ -8,7 +8,7 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
- * @link              #
+ * @link              https://www.exhibitor-portal.uk/
  * @since             1.0.0
  * @package           Exhibitor_Email_Reminder
  *
