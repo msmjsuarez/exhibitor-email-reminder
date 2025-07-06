@@ -1,6 +1,5 @@
 === Exhibitor Email Reminder ===
-Contributors: MJ Layasan  
-Donate link: https://exhibitor-portal.uk  
+Contributors: MJ Layasan    
 Tags: exhibitor, email reminder, form status, cron job, post author  
 Requires at least: 5.0  
 Tested up to: 6.5  
